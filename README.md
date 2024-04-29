@@ -1,2 +1,0 @@
-# JuhendiSkriptid
-skriptimise tööd
